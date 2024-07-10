@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "JayantGoel001",
+      "login": "PranavPratapSingh",
       "name": "Jayant Goel",
       "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
-      "profile": "http://JayantGoel001.github.io",
+      "profile": "http://PranavPratapSingh.github.io",
       "contributions": [
         "code",
         "ideas",
@@ -53,8 +53,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "JayantGoel001.github.io",
-  "projectOwner": "JayantGoel001",
+  "projectName": "PranavPratapSingh.github.io",
+  "projectOwner": "PranavPratapSingh",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
