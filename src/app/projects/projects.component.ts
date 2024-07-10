@@ -3,13 +3,13 @@ import {ChangeDetectionStrategy, ChangeDetectorRef, Component, OnInit} from '@an
 declare var data : any;
 
 @Component({
-	selector: 'app-training',
-	templateUrl: './training.component.html',
+	selector: 'app-projects',
+	templateUrl: './projects.component.html',
 	changeDetection: ChangeDetectionStrategy.OnPush,
-	styleUrls: ['./training.component.css']
+	styleUrls: ['./projects.component.css']
 })
-export class TrainingComponent implements OnInit {
-	public trainingData = data['Training'];
+export class ProjectsComponent implements OnInit {
+	public projectsData = data['Projects'];
 	public darkTheme : boolean = true;
 
 	constructor(private changeDetectorRef: ChangeDetectorRef) {

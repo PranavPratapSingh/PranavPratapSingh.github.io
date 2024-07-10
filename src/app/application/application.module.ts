@@ -8,8 +8,8 @@ import {HomeComponent} from "../home/home.component";
 import {NavbarComponent} from "../navbar/navbar.component";
 import {AboutComponent} from "../about/about.component";
 import {QuoteComponent} from "../quote/quote.component";
-import {PortfolioComponent} from "../portfolio/portfolio.component";
-import {TrainingComponent} from "../training/training.component";
+import {ExperienceComponent} from "../experience/experience.component";
+import {ProjectsComponent} from "../projects/projects.component";
 import {AchievementComponent} from "../achievement/achievement.component";
 import {ContactComponent} from "../contact/contact.component";
 import {SocialComponent} from "../social/social.component";
@@ -26,8 +26,8 @@ const routes: Routes = [{ path: '', component: ApplicationComponent }];
 		NavbarComponent,
 		AboutComponent,
 		QuoteComponent,
-		PortfolioComponent,
-		TrainingComponent,
+		ExperienceComponent,
+		ProjectsComponent,
 		AchievementComponent,
 		ContactComponent,
 		SocialComponent,
