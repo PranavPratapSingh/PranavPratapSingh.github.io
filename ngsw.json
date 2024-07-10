@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1720634824700,
+  "timestamp": 1720635759010,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/269.76e9682e6dfbf313.js",
+        "/107.5fba7c91bdddc8cf.js",
         "/372.2dc54f014bd44c6b.js",
         "/favicon.ico",
         "/index.html",
-        "/main.d203cdd74ddff5ff.js",
+        "/main.cad60b97a74be14d.js",
         "/polyfills.a573d6955b31f75a.js",
-        "/runtime.9b778bb5672c9b6e.js",
-        "/scripts.4e441187d52bd64d.js",
+        "/runtime.cc52aa588e7aa995.js",
+        "/scripts.e72486821bd2d352.js",
         "/styles.61b0674320f41b27.css"
       ],
       "patterns": []
@@ -118,14 +118,14 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/269.76e9682e6dfbf313.js": "f5a5eaa9deaf6809e6a6b3972970b50885e23281",
+    "/107.5fba7c91bdddc8cf.js": "1052fd3174ce065770e4472f2c06e62aff863425",
     "/372.2dc54f014bd44c6b.js": "d601f5ef4553f3eb9223d2095721d08360119d30",
     "/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
     "/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
-    "/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
+    "/apple-touch-icon.png": "0010c6c17fe30effab737d50554713846b5f8c8c",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/assets/css/font-awesome.min.css": "db3c436a1c87b1fd43a10e820ad628f93df90bce",
-    "/assets/data.min.js": "4f21ef850710d5b3d5b7b109ed628c04c7a42019",
+    "/assets/data.min.js": "abedf6aca8cca8b83794857b08de6d4f5bf23424",
     "/assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "/assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
     "/assets/fonts/BlackOpsOne.ttf": "024e07e45eefb57d4e55fffc082711c2d653e941",
@@ -151,7 +151,7 @@
     "/assets/images/Profile-pic-192x192.png": "02727f7ac7ac8d9297b1be5886f9eebd0e1d85dc",
     "/assets/images/Profile-pic-384x384.png": "04c07f1fe1197fec58129c2dff21097975eddd8b",
     "/assets/images/Profile-pic-512x512.png": "d89ca41cc239d67ab497466b8d2bd972bd757327",
-    "/assets/images/Profile-pic.webp": "b4962dfea3e0491a98e71092392a72bab8009029",
+    "/assets/images/Profile-pic.webp": "c3b60387cdf7ca0664003ef1159aaebf85ab3020",
     "/assets/images/about-bg.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "/assets/images/achievement/DataScience.webp": "d17f698e61b409b529a209fcf6620a9b415dbd7e",
     "/assets/images/achievement/HackerRank.webp": "0d4df017c764d5e16a7e847e43bd21af8f061c26",
@@ -198,15 +198,15 @@
     "/fa-solid-900.45add571878710a9.ttf": "5f4adfe2eb7b4e22cb6323d7560e56ae26f483ba",
     "/fa-solid-900.7cd3ea3a010ee096.svg": "c8e3b7e2aa628e46993e63bf9c806e7c27800149",
     "/fa-solid-900.d80d93face7fbbc1.eot": "26f695865311891d8fa1f6321605306c74b5d44c",
-    "/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
-    "/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
-    "/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/index.html": "5c6f65909a9135728f1b83222c243c66d102a90a",
-    "/main.d203cdd74ddff5ff.js": "42fa62553a94d2a496dcfdca5699d0c0e6e6f394",
+    "/favicon-16x16.png": "9799a2024059402aae6cad621b921400cade12ef",
+    "/favicon-32x32.png": "b0f062858b0de0dc5d012d5a51bddd7d444c816c",
+    "/favicon.ico": "95bb55d3f65f5ab14821e1bbc75144a4a55240cc",
+    "/index.html": "9223752e44dc77fdd18150818a0c960199b532b2",
+    "/main.cad60b97a74be14d.js": "32f1da4e3748c137210f8e1fd42e3aa65c378aae",
     "/polyfills.a573d6955b31f75a.js": "837b82831228f9cf939f33832e451e34f12b809f",
     "/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "/runtime.9b778bb5672c9b6e.js": "762733aa968173ae088a9bb0ea951333d08b67c3",
-    "/scripts.4e441187d52bd64d.js": "268d7d1f0c0800e6acd39d34855a637c3197351f",
+    "/runtime.cc52aa588e7aa995.js": "8ab38b353f332272a9aec93427a6cf1fa0148f86",
+    "/scripts.e72486821bd2d352.js": "8eb600fd4a286fdba08d3284606f11b618822320",
     "/styles.61b0674320f41b27.css": "a8112361291e8a53e8493502f3dcbe8841480cc4"
   },
   "navigationUrls": [
