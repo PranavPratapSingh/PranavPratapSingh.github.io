@@ -32,8 +32,8 @@ jobs:
             - name: Login to DockerHub
               uses: docker/login-action@v3
               with:
-                  username: ${{github.actor}}
-                  password: ${{ secrets.GITHUB_TOKEN }}
+                  username: PranavPratapSingh
+                  password: ${{ secrets.DOCKERHUB }}
 
             - name: Build 🔧 and Push 📦 the Docker image of my personal portfolio on Dockerhub
               run: |
