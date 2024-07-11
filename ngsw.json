@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1720685946638,
+  "timestamp": 1720691313470,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -115,12 +115,6 @@
         "/assets/images/mstile-310x150.png",
         "/assets/images/mstile-310x310.png",
         "/assets/images/mstile-70x70.png",
-        "/assets/images/portfolio/A-Social-Media.webp",
-        "/assets/images/portfolio/AI-Image-Caption-Bot.webp",
-        "/assets/images/portfolio/AI-Music-Generation.webp",
-        "/assets/images/portfolio/E-Commerce-Site.webp",
-        "/assets/images/portfolio/School-Donation-Analysis.webp",
-        "/assets/images/portfolio/URL-Shortner.webp",
         "/assets/images/quote-img.webp",
         "/assets/images/safari-pinned-tab.svg",
         "/assets/js/live2d.min.js",
@@ -239,12 +233,6 @@
     "/assets/images/mstile-310x150.png": "7d7b4d0311ae61e7c2b957a8db10f803022e88c9",
     "/assets/images/mstile-310x310.png": "77a3572719438145e488bd9970275e9eaaa76965",
     "/assets/images/mstile-70x70.png": "2a62c4fb159ebf657be9e4a80a71c5c93cbdb9a5",
-    "/assets/images/portfolio/A-Social-Media.webp": "0b6efeecb0553e9b9daeb8aafe9fe6bf6510f521",
-    "/assets/images/portfolio/AI-Image-Caption-Bot.webp": "9253cd71d800ecb32a1c285b045ecef0cd9be4a2",
-    "/assets/images/portfolio/AI-Music-Generation.webp": "318a35d17b17eb1dd866338f0811f8d285899e47",
-    "/assets/images/portfolio/E-Commerce-Site.webp": "544b397ff8b64b490b9252c71a7c08905fe55e10",
-    "/assets/images/portfolio/School-Donation-Analysis.webp": "ce5dc709992a20e339e135c211b37ef9db6ecd60",
-    "/assets/images/portfolio/URL-Shortner.webp": "a4b98fe5bf7658d5f1ceb2c79f87404f28f089db",
     "/assets/images/quote-img.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
     "/assets/images/safari-pinned-tab.svg": "074894df400ad3516aa0eff922cc3dfbb97cedcc",
     "/assets/js/live2d.min.js": "8e500cf338f216c0b444fa6d88daba4cbefe2e46",
