@@ -550,16 +550,6 @@ This project was created for educational purposes and for personal use. Feel fre
 If you like my content or find this code useful, give it a ⭐.
 
 
-## 🤝 Contributing
-
-Contributions, Issues and Feature requests are Welcome!
-
-Feel free to check the [Issues page](https://github.com/PranavPratapSingh/PranavPratapSingh.github.io/issues/).
-
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
