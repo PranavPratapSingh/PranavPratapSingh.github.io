@@ -80,31 +80,31 @@
 				</div>
 				<div
 					class="tab-pane fade"
-					[ngClass]="{ 'active show': activeTab === 'skill' }"
-					id="skill"
-					aria-labelledby="skill-tab"
+					[ngClass]="{ 'active show': activeTab === 'proficiency' }"
+					id="proficiency"
+					aria-labelledby="proficiency-tab"
 				>
 					<div class="row">
 						<div
 							class="col-lg-6"
-							*ngFor="let skills of aboutData['skills']"
+							*ngFor="let proficiency of aboutData['proficiency']"
 						>
 							<div
 								class="mt-5"
-								*ngFor="let skillProgress of skills"
+								*ngFor="let proficiencyProgress of proficiency"
 							>
 								<p class="text-muted text-uppercase mb-2">
-									{{ skillProgress["skill"] }}
+									{{ proficiencyProgress["proficiency"] }}
 								</p>
 								<div class="progress">
 									<div
 										class="progress-bar"
 										[ngStyle]="{
-											width: skillProgress.progress + '%'
+											width: proficiencyProgress.progress + '%'
 										}"
 									>
 										<div class="progress-value text-muted">
-											{{ skillProgress.progress + "%" }}
+											{{ proficiencyProgress.progress + "%" }}
 										</div>
 									</div>
 								</div>

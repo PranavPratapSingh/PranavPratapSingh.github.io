@@ -8,8 +8,8 @@ import {Router} from "@angular/router";
 	styleUrls: ['./page-not-found.component.css']
 })
 export class PageNotFoundComponent implements OnInit {
-	public top : string = "0px";
-	public left : string = "0px";
+	public top : string = "25%";
+	public left : string = "48%";
 
 	constructor(public router : Router,private changeDetectorRef: ChangeDetectorRef) {
 		changeDetectorRef.detach();
