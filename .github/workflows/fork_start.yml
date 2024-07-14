@@ -16,5 +16,5 @@ jobs:
       - name: This repo has x stars y forks
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
-          token: ${{ secrets.GH_TOKEN_PR }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: "PranavPratapSingh's Personal Portfolio with <starCount> stars ⭐ and <forkCount> forks 🎉."
